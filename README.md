@@ -1,10 +1,14 @@
-# 🌟 Vishal Bhargav
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:FF9900&height=220&section=header&text=Vishal%20Bhargav&fontSize=48&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Kubernetes&descAlignY=60&animation=fadeIn"/>
+</p>
 
-**Cloud & DevOps Engineer | AWS | Docker | Kubernetes**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=FF9900&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Building+Scalable+Infrastructure;DevOps+%2B+Infrastructure+as+Code"/>
+</p>
 
-Building robust infrastructure that powers real-world applications.
-
-![Profile Views](https://komarev.com/ghpvc/?username=imvishalbhargav&label=PROFILE+VIEWS&color=FF9900&style=flat-square)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=imvishalbhargav&label=PROFILE+VIEWS&color=FF9900&style=for-the-badge"/>
+</p>
 
 ---
 
@@ -20,133 +24,107 @@ I build **scalable infrastructure, automate deployments, and create robust syste
 
 ## ⚡ What I Do Best
 
-- ☁️ Design and manage AWS cloud infrastructure  
-- 🐳 Containerize applications with Docker & Kubernetes  
-- 🔧 Automate everything with Infrastructure as Code (Terraform, Ansible)  
-- 📊 Monitor & optimize system performance (Grafana, ELK)  
-- 🚀 Build CI/CD pipelines with GitHub Actions  
-- 🛡️ Ensure security & scalability in distributed systems  
+- ☁️ Design and manage AWS cloud infrastructure
+- 🐳 Containerize applications with Docker & Kubernetes
+- 🔧 Automate everything with Infrastructure as Code (Terraform, Ansible)
+- 📊 Monitor & optimize system performance (Grafana, ELK)
+- 🚀 Build CI/CD pipelines with GitHub Actions
+- 🛡️ Ensure security & scalability in distributed systems
 
 ---
 
 ## 🧩 Tech Stack
 
-**Cloud & Infrastructure:** AWS • Google Cloud • Docker • Kubernetes
+**Cloud & Infrastructure**
+- AWS · Google Cloud · Docker · Kubernetes
 
-**Infrastructure as Code:** Terraform • Ansible
+**Infrastructure as Code**
+- Terraform · Ansible
 
-**CI/CD & Automation:** GitHub Actions • Git
+**CI/CD & Automation**
+- GitHub Actions · Git · GitHub
 
-**Monitoring & Logging:** Grafana • Mosquitto
+**Monitoring & Logging**
+- Grafana · ELK Stack · Mosquitto
 
-**Databases:** MongoDB • MySQL
+**Databases**
+- MongoDB · MySQL
 
-**Web Servers:** Nginx • Apache
+**Web Servers**
+- Nginx · Apache
 
-**Languages:** Python • C • C++
+**Programming Languages**
+- Python · C · C++
 
-**Design Tools:** Figma • Canva • Adobe Photoshop
+**Design Tools**
+- Figma · Canva · Adobe Photoshop
 
 ---
 
 ## 🚀 Core Expertise
 
-<table>
-<tr>
-<td width="50%">
-
 ### ☁️ AWS & Cloud Architecture
-- EC2, S3, RDS, Lambda  
-- VPC, Security Groups, IAM  
-- CloudWatch & Auto Scaling  
-- Cost optimization  
-
-</td>
-
-<td width="50%">
+- EC2, S3, RDS, Lambda provisioning
+- VPC, Security Groups, IAM management
+- CloudWatch monitoring & Auto Scaling
+- Cost optimization strategies
 
 ### 🐳 Containerization & Orchestration
-- Docker image optimization  
-- Kubernetes deployments  
-- Helm charts  
-- StatefulSets & Services  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+- Docker image optimization
+- Kubernetes deployments and scaling
+- Helm charts management
+- StatefulSets & Services configuration
 
 ### 🔧 Infrastructure as Code
-- Terraform modules  
-- Ansible playbooks  
-- State management  
-- Multi-environment deployment  
-
-</td>
-
-<td width="50%">
+- Terraform modules and state management
+- Ansible playbooks and automation
+- Multi-environment deployments
+- Configuration management
 
 ### 🚀 CI/CD Pipelines
-- GitHub Actions workflows  
-- Automated testing  
-- Artifact management  
-- Blue-green deployments  
-
-</td>
-</tr>
-</table>
+- GitHub Actions workflow automation
+- Automated testing and deployment
+- Artifact management
+- Blue-green and canary deployments
 
 ---
 
 ## 🧠 DevOps Mindset
 
 - **Automate → Monitor → Improve**
-- Infrastructure first, then applications  
-- Prefer declarative over imperative  
-- Security by default, not by chance  
-- Measure everything, improve continuously  
-
----
-
-## 📊 GitHub Stats
-
-Check out my GitHub profile for detailed statistics and contributions:
-
-[github.com/imvishalbhargav](https://github.com/imvishalbhargav)
-
----
-
-## 🏆 Achievements
-
-Active contributor and passionate about open-source projects.
-
-[See my repositories](https://github.com/imvishalbhargav?tab=repositories)
-
----
-
-## 📬 Connect With Me
-
-📧 **Email:** [imvishalbhargav@gmail.com](mailto:imvishalbhargav@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/imvishalbhargav](https://linkedin.com/in/imvishalbhargav)
-
-🐙 **GitHub:** [github.com/imvishalbhargav](https://github.com/imvishalbhargav)
-
-📸 **Instagram:** [@imvishalbhargav](https://instagram.com/imvishalbhargav)
-
-🐦 **Twitter/X:** [@imvishalbhargav](https://x.com/imvishalbhargav)
-
-🔗 **Reddit:** [u/imvishalbhargav](https://reddit.com/user/imvishalbhargav)
+- Infrastructure first, then applications
+- Prefer declarative over imperative
+- Security by default, not by chance
+- Measure everything, improve continuously
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🔨 Advanced Kubernetes automation  
-- 📈 Scaling infrastructure for high-availability systems  
-- 🔐 Enhancing security & compliance automation  
-- 💡 Optimizing cloud costs with IaC best practices  
+- 🔨 Advanced Kubernetes automation
+- 📈 Scaling infrastructure for high-availability systems
+- 🔐 Enhancing security & compliance automation
+- 💡 Optimizing cloud costs with IaC best practices
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+
+**Email:** [imvishalbhargav@gmail.com](mailto:imvishalbhargav@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/imvishalbhargav](https://linkedin.com/in/imvishalbhargav)
+
+**GitHub:** [github.com/imvishalbhargav](https://github.com/imvishalbhargav)
+
+**Instagram:** [@imvishalbhargav](https://instagram.com/imvishalbhargav)
+
+**Twitter/X:** [@imvishalbhargav](https://x.com/imvishalbhargav)
+
+**Reddit:** [u/imvishalbhargav](https://reddit.com/user/imvishalbhargav)
+
+</p>
 
 ---
 
