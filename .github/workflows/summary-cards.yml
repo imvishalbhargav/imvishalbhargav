@@ -1,0 +1,24 @@
+name: Profile Summary Cards
+
+# Generates analytics cards (stats, languages, productive time) and commits them
+# to profile-summary-card-output/ on main. Self-hosted => reliable, no rate limits.
+on:
+  schedule:
+    - cron: "37 3 * * *"     # daily rebuild
+  workflow_dispatch:          # run manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5
