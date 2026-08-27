@@ -85,13 +85,13 @@ ROWS_INFO = [
 THEMES = {
     "dark": dict(
         bg="#0A101F", panel="#0D1526", stroke="#1B2740",
-        dot="#A78BFA", head="#22D3EE", label="#8FA3BF", value="#F1F5F9",
+        dot="#F43F5E", head="#22D3EE", label="#8FA3BF", value="#F1F5F9",
         dim="#5A6B85", leader="#26324A", accent="#10B981", pill_bg="#132033",
         titlebar="#0C1322", frame="#22304C",
     ),
     "light": dict(
         bg="#F4F7FB", panel="#FFFFFF", stroke="#D6E0EC",
-        dot="#7C3AED", head="#0891B2", label="#475569", value="#0F172A",
+        dot="#E11D48", head="#0891B2", label="#475569", value="#0F172A",
         dim="#94A3B8", leader="#CBD5E1", accent="#059669", pill_bg="#EDF3FA",
         titlebar="#EAF0F7", frame="#C6D3E2",
     ),

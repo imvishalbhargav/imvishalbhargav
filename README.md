@@ -33,21 +33,21 @@
   <img src="https://img.shields.io/badge/Coffee-%E2%88%9E-FBBF24?style=flat-square&labelColor=0A101F" alt="coffee" />
 </div>
 
-<!-- ══════════════ 4. SOCIAL BADGES + STATS ══════════════ -->
+<!-- ══════════════ 4. SOCIAL BUTTONS + STATS ══════════════ -->
 <div align="center">
   <br/>
   <a href="https://www.linkedin.com/in/imvishalbhargav/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/linkedin.svg" height="52" alt="LinkedIn" /></a>&nbsp;
   <a href="https://imvishalbhargav.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" /></a>&nbsp;
+    <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/portfolio.svg" height="52" alt="Portfolio" /></a>&nbsp;
   <a href="mailto:imvishalbhargav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>&nbsp;
+    <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/email.svg" height="52" alt="Email" /></a>&nbsp;
   <a href="https://instagram.com/imvishalbhargav">
-    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" /></a>&nbsp;
+    <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/instagram.svg" height="52" alt="Instagram" /></a>&nbsp;
   <a href="https://reddit.com/user/imvishalbhargav">
-    <img src="https://img.shields.io/badge/Reddit-0A101F?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=0A101F" alt="Reddit" /></a>
+    <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/reddit.svg" height="52" alt="Reddit" /></a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=imvishalbhargav&label=PROFILE+VIEWS&color=22D3EE&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=imvishalbhargav&label=PROFILE+VIEWS&color=F43F5E&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/imvishalbhargav?tab=followers">
     <img src="https://img.shields.io/github/followers/imvishalbhargav?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0A101F&color=A78BFA" alt="followers" /></a>
 </div>
@@ -102,7 +102,7 @@ real-world applications — with a focus on **clean architecture, performance, a
   <tr>
     <td width="45%" valign="top">
       <a href="https://drinkit-app.vercel.app/">
-        <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/drinkit.jpg" width="100%" alt="DrinKit — 3D drinks delivery app preview" />
+        <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/drinkit.gif" width="100%" alt="DrinKit — auto-scrolling live preview" />
       </a>
     </td>
     <td width="55%" valign="top">
@@ -116,9 +116,9 @@ real-world applications — with a focus on **clean architecture, performance, a
         <li>📱 Fully responsive, mobile-first layout</li>
       </ul>
       <a href="https://drinkit-app.vercel.app/">
-        <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-10B981?style=for-the-badge&logoColor=white" alt="DrinKit live" /></a>
+        <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/live-demo.svg" height="46" alt="DrinKit live" /></a>&nbsp;
       <a href="https://github.com/imvishalbhargav?tab=repositories">
-        <img src="https://img.shields.io/badge/%3C%2F%3E%20Source-0A101F?style=for-the-badge&logo=github&labelColor=0A101F&color=22D3EE" alt="DrinKit source" /></a>
+        <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/src-cyan.svg" height="46" alt="DrinKit source" /></a>
     </td>
   </tr>
 </table>
@@ -137,13 +137,13 @@ real-world applications — with a focus on **clean architecture, performance, a
         <li>🚀 Continuously deployed on Vercel</li>
       </ul>
       <a href="https://imvishalbhargav.vercel.app/">
-        <img src="https://img.shields.io/badge/%E2%96%B6%20Visit%20Site-22D3EE?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
+        <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/visit-site.svg" height="46" alt="portfolio" /></a>&nbsp;
       <a href="https://github.com/imvishalbhargav?tab=repositories">
-        <img src="https://img.shields.io/badge/%3C%2F%3E%20Source-0A101F?style=for-the-badge&logo=github&labelColor=0A101F&color=A78BFA" alt="portfolio source" /></a>
+        <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/src-purple.svg" height="46" alt="portfolio source" /></a>
     </td>
     <td width="45%" valign="top">
       <a href="https://imvishalbhargav.vercel.app/">
-        <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/portfolio.jpg" width="100%" alt="Developer portfolio preview" />
+        <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/portfolio.gif" width="100%" alt="Developer portfolio auto-scrolling preview" />
       </a>
     </td>
   </tr>
@@ -151,7 +151,7 @@ real-world applications — with a focus on **clean architecture, performance, a
 
 <div align="center">
   <a href="https://imvishalbhargav.vercel.app/">
-    <img src="https://img.shields.io/badge/%F0%9F%94%8D%20See%20more%20on%20my%20portfolio-0A101F?style=for-the-badge&labelColor=0A101F&color=10B981" alt="more projects" /></a>
+    <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/see-more.svg" height="50" alt="more projects" /></a>
 </div>
 
 <br/>
@@ -228,15 +228,43 @@ real-world applications — with a focus on **clean architecture, performance, a
 ## 📊 GitHub Analytics
 
 <!-- Self-hosted summary cards (nightowl theme) — generated by summary-cards.yml.
-     Reliable: committed to this repo, never rate-limited like public widgets. -->
+     Split into labeled sub-sections so each card breathes. -->
+
 <div align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/0-profile-details.svg" alt="profile details" />
-  <br/>
-  <img width="49%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/3-stats.svg" alt="stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/4-productive-time.svg" alt="productive time" />
-  <br/>
-  <img width="49%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/1-repos-per-language.svg" alt="repos per language" />
-  <img width="49%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/2-most-commit-language.svg" alt="most commit language" />
+  <img width="82%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/0-profile-details.svg" alt="profile details" />
+</div>
+
+<br/>
+
+### 🔥 Contribution Stats
+
+<div align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/3-stats.svg" alt="stats" />
+</div>
+
+<br/>
+
+### 🧬 Language Breakdown
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <sub><b>Repos per language</b></sub><br/>
+      <img width="100%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/1-repos-per-language.svg" alt="repos per language" />
+    </td>
+    <td width="50%" align="center">
+      <sub><b>Most-used in commits</b></sub><br/>
+      <img width="100%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/2-most-commit-language.svg" alt="most commit language" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ⏰ When I Code
+
+<div align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/4-productive-time.svg" alt="productive time" />
 </div>
 
 <br/>
@@ -278,9 +306,9 @@ real-world applications — with a focus on **clean architecture, performance, a
   <i>Open to <b>DevOps / Cloud</b> roles, freelance infra work, and collaborations.</i>
   <br/><br/>
   <a href="https://www.linkedin.com/in/imvishalbhargav/">
-    <img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect linkedin" /></a>
+    <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/connect-linkedin.svg" height="50" alt="connect linkedin" /></a>&nbsp;
   <a href="mailto:imvishalbhargav@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20hi-Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+    <img src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/buttons/say-hi.svg" height="50" alt="email" /></a>
 </div>
 
 <br/>
