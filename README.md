@@ -25,14 +25,6 @@
   </a>
 </div>
 
-<!-- ══════════════ 3. STATUS PILLS ══════════════ -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to-DevOps%20Roles-10B981?style=flat-square&labelColor=0A101F" alt="open to work" />
-  <img src="https://img.shields.io/badge/Based%20in-Jaipur%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-22D3EE?style=flat-square&labelColor=0A101F" alt="location" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%2B%20Automation-A78BFA?style=flat-square&labelColor=0A101F" alt="focus" />
-  <img src="https://img.shields.io/badge/Coffee-%E2%88%9E-FBBF24?style=flat-square&labelColor=0A101F" alt="coffee" />
-</div>
-
 <!-- ══════════════ 4. SOCIAL BUTTONS + STATS ══════════════ -->
 <div align="center">
   <br/>
@@ -168,46 +160,58 @@ real-world applications — with a focus on **clean architecture, performance, a
   <br/>
 
   **☁️ Cloud & Containers**
-  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=232F3E&color=FF9900)
-  ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+  <p>
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/aws.svg" alt="AWS" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/gcp.svg" alt="Google Cloud" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/docker.svg" alt="Docker" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/kubernetes.svg" alt="Kubernetes" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/nginx.svg" alt="Nginx" />
+  </p>
 
   **🔧 IaC · CI/CD · Automation**
 
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  <p>
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/terraform.svg" alt="Terraform" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/ansible.svg" alt="Ansible" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/ghactions.svg" alt="GitHub Actions" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/jenkins.svg" alt="Jenkins" />
+  </p>
 
   **📊 Monitoring & Observability**
 
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-  ![Elastic](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+  <p>
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/grafana.svg" alt="Grafana" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/prometheus.svg" alt="Prometheus" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/elastic.svg" alt="Elastic" />
+  </p>
 
   **💾 Databases**
 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <p>
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/mongodb.svg" alt="MongoDB" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/mysql.svg" alt="MySQL" />
+  </p>
 
   **👨‍💻 Languages**
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <p>
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/python.svg" alt="Python" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/c.svg" alt="C" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/cpp.svg" alt="C++" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/bash.svg" alt="Bash" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/javascript.svg" alt="JavaScript" />
+  </p>
 
   **🛠️ OS & Tools**
 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0A101F?style=for-the-badge&labelColor=0A101F&color=007ACC)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  <p>
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/linux.svg" alt="Linux" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/git.svg" alt="Git" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/github.svg" alt="GitHub" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/vscode.svg" alt="VS Code" />
+    <img height="32" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/assets/tech/figma.svg" alt="Figma" />
+  </p>
 
 </details>
 
@@ -227,44 +231,12 @@ real-world applications — with a focus on **clean architecture, performance, a
 
 ## 📊 GitHub Analytics
 
-<!-- Self-hosted summary cards (nightowl theme) — generated by summary-cards.yml.
-     Split into labeled sub-sections so each card breathes. -->
+<!-- Self-hosted profile card (nightowl theme) — generated by summary-cards.yml.
+     Stats / language / productive-time cards were removed on request (they
+     update live from the workflow). Keeping just the stable profile card. -->
 
 <div align="center">
   <img width="82%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/0-profile-details.svg" alt="profile details" />
-</div>
-
-<br/>
-
-### 🔥 Contribution Stats
-
-<div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/3-stats.svg" alt="stats" />
-</div>
-
-<br/>
-
-### 🧬 Language Breakdown
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <sub><b>Repos per language</b></sub><br/>
-      <img width="100%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/1-repos-per-language.svg" alt="repos per language" />
-    </td>
-    <td width="50%" align="center">
-      <sub><b>Most-used in commits</b></sub><br/>
-      <img width="100%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/2-most-commit-language.svg" alt="most commit language" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### ⏰ When I Code
-
-<div align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/imvishalbhargav/imvishalbhargav/main/profile-summary-card-output/nightowl/4-productive-time.svg" alt="productive time" />
 </div>
 
 <br/>
